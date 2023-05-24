@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(231,231,238);
+}
+
+button {
+  margin-left: 30px;
+}
+
+footer {
+  color: white;
+  background: rgba(255,255,255,0); 
+}
+
+header {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: rgb(75,105,177);
+}
+
+
+.border {
+  border: 1px solid black;
+}
+
+.h1 {
+  color: rgb(252,250,250);
+  font-weight: bold;
+  font-size: 40px;
+}
+
+p {
+  font-size: 1rem;
+  color: rgb(255,254,254);
+  justify-content: center;
+}
+
+/*Nav and Header Barb*/
+.Main-Header {
+  color:white;
+  font-size: 4rem;
+  Border-bottom:dotted;
+  justify-content: center;
+}
+
+.container{
+  width: 20%;
+  Height:80%;
+  text-align: center;
+  background-color: rgb(221,174,174);
+  left:10%;
+  position: absolute;
+  margin-left:-180px;
+  border-radius: 5%;
+  border: solid;
+  margin-top: 10px;
+}
+
